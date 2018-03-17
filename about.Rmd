@@ -1,8 +1,4 @@
 ---
 title: "Resume"
 ---
-
-```{r label, out.width = "85%", echo=FALSE}
-library(knitr)
-include_graphics("/Users/evancernea/personal_site/CERNEA_EVAN_CV_2018.pdf")
-```
+![](/Users/evancernea/personal_site/CERNEA_EVAN_CV_2018.pdf)
