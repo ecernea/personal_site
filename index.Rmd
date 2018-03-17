@@ -7,12 +7,12 @@ title: "About Me"
 
 #Publications around the web
 
-##[Using Arduino to sense home power usage](http://www.sensingthecity.com/powerdown-challenge-kit/)
+###[Using Arduino to sense home power usage](http://www.sensingthecity.com/powerdown-challenge-kit/)
 - For Allison Lassiter's Sensing the City Class, my group created a responsive sensor which informs the user of their power use in their home and changes the color of a candle to correspond with high, medium, or low power usage
 - I also [wrote a tutorial](http://www.sensingthecity.com/creating-a-non-invasive-current-sensor/) on how to set up the current sensor for proper Arduino usage.
 
-##[Mental Health and Free Speech on Campuses](https://www.thefire.org/the-blue-scare-on-campuses-the-administrations-role-in-quieting-difficult-discussions/)
+###[Mental Health and Free Speech on Campuses](https://www.thefire.org/the-blue-scare-on-campuses-the-administrations-role-in-quieting-difficult-discussions/)
 - When I interned at the Foundation for Individual Rights in Education, I wrote a piece on the importance of administrators and students openly discussing mental health issues as a way to treat the issue head on.
 
-##[Reflections on the Senate's Response to the Heroin Epidemic](https://publicpolicy.wharton.upenn.edu/live/news/460-heroine-is-bigger-than-the-velvet-underground)
+###[Reflections on the Senate's Response to the Heroin Epidemic](https://publicpolicy.wharton.upenn.edu/live/news/460-heroine-is-bigger-than-the-velvet-underground)
 - As an intern for Former Senator Barbara Mikulski in the summer of 2014, I attended meetings of the Health, Education, Labor, and Pensions Committee. Many of these meetings focused on the burgeoining heroin epidemic, and I wrote a blog post for my funder the Penn Wharton Public Policy Initiative summarizing the Committee's response.
