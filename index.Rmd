@@ -1,8 +1,6 @@
 ---
-title: "Evan's Website"
+title: "About Me"
 ---
-# About Me
-
 - __Name:__ Evan Cernea (pronounced Chur-nyah)
 - __Hometown:__ Bethesda, MD
 - __Hobbies:__ Biking, skiing, swimming, discovering new R libraries, reading and listening to the news, learning about LGBTQ+ issues
