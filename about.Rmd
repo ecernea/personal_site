@@ -1,4 +1,4 @@
 ---
 title: "Resume"
 ---
-![](/Users/evancernea/personal_site/CERNEA_EVAN_CV_2018.pdf)
+![](CERNEA_EVAN_CV_2018.jpg)
