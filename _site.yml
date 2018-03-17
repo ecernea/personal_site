@@ -11,3 +11,5 @@ navbar:
       href: boston.html
     - text: "Rebalancing Bike Share in Chicago"
       href: chicago.html
+    - text: "Hedonistic Regression in Philadelphia"
+      href: philly.html
