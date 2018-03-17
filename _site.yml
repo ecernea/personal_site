@@ -13,3 +13,6 @@ navbar:
       href: chicago.html
     - text: "Hedonistic Regression in Philadelphia"
       href: philly.html
+output:
+  html_document:
+    theme: lumen
