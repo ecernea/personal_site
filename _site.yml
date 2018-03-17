@@ -1,0 +1,13 @@
+name: "evans-website"
+output_dir: "."
+navbar:
+  title: "Nicks Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Me"
+      href: about.html
+    - text: "Predicting Boston Home Prices"
+      href: boston.html
+    - text: "Rebalancing Bike Share in Chicago"
+      href: chicago.html
