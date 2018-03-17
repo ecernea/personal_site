@@ -1,5 +1,8 @@
 ---
-title: "About Me"
+title: "Resume"
 ---
 
-I am a Masters’ student in Urban Spatial Analytics at the University of Pennsylvania, a program that combines data science and statistics with a focus on urban issues. I am seeking to combine my liberal arts undergraduate experience with my STEM graduate studies to analyze large datasets and present those insight to help businesses make data-based decisions that align with their project goals. I am well-versed in R, PostgreSQL, C#, Javascript, HTML/CSS, and the ArcSuite. I am currently studying Java, and machine learning techniques with Keras and TensorFlow. 
+```{r label, out.width = "85%", fig.cap = "caption"}
+library(knitr)
+include_graphics("CERNEA_EVAN_CV_2018.pdf")
+```

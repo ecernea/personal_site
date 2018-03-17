@@ -5,7 +5,7 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "About Me"
+    - text: "Resume"
       href: about.html
     - text: "Predicting Boston Home Prices"
       href: boston.html
